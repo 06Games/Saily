@@ -1,0 +1,276 @@
+/* 
+  Localizable.strings
+  Protein
+
+  Created by Lakr Aream on 2020/5/26.
+  Copyright © 2020 Lakr Aream. All rights reserved.
+  
+   Translated by Evan Galli on 2020/07/20
+   https://github.com/06Games
+*/
+
+"LANGUAGE_FALG_233" = "Français";
+
+"Confirm" = "Confirmer";
+"Dismiss" = "Fermer"; /* A verif */
+"Refresh" = "Rafraîchir";
+"Share" = "Partager";
+"Error" = "Erreur";
+"Cancel" = "Annuler";
+"Warning" = "Avertissement";
+"Delete" = "Supprimer";
+"Submit" = "Envoyer"; /* A verif */
+"Other" = "Autre";
+"Done" = "Terminé";
+"CancelAll" = "Annuler tout";
+"Install" = "Installer";
+"LICENSE" = "LICENCE";
+
+"Continue" = "Continuer";
+"Suspended" = "Suspendu";
+"Failed" = "Échoué";
+"Hours" = "Heures";
+"Tasks" = "Tâches";
+"Installed" = "Installé";
+"WishList" = "Liste de souhaits";
+"Version" = "Version";
+"Screenshot" = "Capture d'écran";
+"AvailableUpdate" = "Mises à jour disponibles";
+"RecentInstalled" = "Récemment installé";
+"RecentUpdate" = "Récemment mis à jour";
+"ErrorReadInstalledPackages" = "Erreur lors de la lecture des packages installés";
+"PleaseTryReInstallApp" = "Veuillez réinstaller ce package";
+"OperationLocked" = "Opération verrouillée";
+"LoadingDataBase" = "Chargement de la base de données";
+"WaitingForDataBase" = "En attente de la base de données";
+"NoRecentUpdate" = "Aucune mise à jour récente";
+"NoRecentUpdateInstruction" = "Tout à jour !";
+"DownloadingWaitHint" = "Téléchargement...";
+"IndexInProgress" = "Indexage en cours";
+"Ungroupped" = "Dissocié"; /* A verif */
+"MENU" = "MENU";
+"Download Tasks" = "Téléchargements";
+"Package Tasks" = "Package Tasks"; /* A traduire */
+"Other Tasks" = "Autres tâches";
+"UpdateAll" = "Tout mettre à jour";
+"EnterNumber" = "Entrer un nombre";
+"InputInvalid" = "Entrée non valide";
+"Number" = "Nombre";
+"Group" = "Groupe";
+"Downloaded" = "Téléchargé";
+"Console" = "Console";
+
+"AppDelegate_init" = "Chargement...";
+"AppDelegate_loadRepoRecord" = "Chargement des sources...";
+"AppDelegate_loadPackageRecord" = "Chargement des paquets...";
+"AppDelegate_startTaskManager" = "Chargement des tâches...";
+"AppDelegate_RevealLoader" = "Loading reveal...";  /* A traduire */
+"AppDelegate_BootstrapTime" = "Boot time";  /* A traduire */
+
+"TimeGap_JustNow" = "à l'instant";
+"%dTimeGap_MinBefore" = "il y a %d minutes";
+"%dTimeGap_HoursBefore" = "il y a %d heures";
+"%dTimeGap_DaysBefore" = "il y a %d jours";
+"TimeGap_OutDated" = "il y a longtemps"; /* A verif */
+
+"Repo_NoDescription" = "Aucune description fournie";
+
+"Package_NoName" = "Sans nom";
+"Package_ContentDamaged" = "Ce paquet est endommagé";
+
+"Navigation_GoBack" = "Retour";
+
+"SearchBar_SearchPackageOrRepo" = "Rechercher";
+
+"HomeCard_Welcome" = "Bienvenue sur Saily";
+"HomeCard_Desc" = "Nous rêvons pendant que le monde dort";
+
+"DashBoardNavigatorCard_DashBoard" = "Tableau de bord";
+"DashBoardNavigatorCard_Setting" = "Paramètres";
+"DashBoardNavigatorCard_Tasks" = "Tâches";
+"DashBoardNavigatorCard_Installed" = "Installés";
+
+"RepoCard_NoRepo" = "Aucune source n'as été ajouté";
+"RepoCard_AddInstruction" = "Ajouter";
+"RepoCard_AddInstructionHint" = "Bonne chance";
+"RepoCard_Cell_RepoInUpdate" = "Mise à jour en cours...";
+"RepoCard_Cell_PendingUpdate" = "En attente";
+"RepoCard_Cell_LastUpdateTimeHintPrefix" = "Dernière mise à jour ";
+
+"WishList_RemoveHint" = "Le supprimer de votre liste de souhaits ?";
+"WishList_RemovedHint" = "Supprimé";
+"WishList_AddedHint" = "Ajouté";
+
+"RepoViewController_RepoLastUpdated" = "Mis à jour ";
+"RepoViewController_RepoContains" = " contient ";
+"RepoViewController_RepoContainsSuffix" = " paquets";
+"RepoViewController_RepoFeaturedPackageNotFoundHint" = "Le paquet est introuvable\nVeuillez réessayer après le rafraîchissement";
+
+"RepoAddViewController_TitleAdd" = "Ajouter";
+"RepoAddViewController_SelectionSwitcher" = "Tous sélectionner";
+"RepoAddViewController_RepoDescription" = "Une source contient divers plug-ins, applications, thèmes et sonneries, qui sont gérés par des organisations ou des individus officiels ou non officiels. Vous pouvez ajouter n'importe quelle source sans restrictions, mais veuillez noter que nous ne pouvons pas confirmer que les données ou informations qu'ils fournissent sont sûres, ils peuvent endommager votre système ou votre équipement, ce qui rend la récupération impossible.";
+"RepoAddViewController_APTRecordTitle" = "Sources externes";
+"RepoAddViewController_APTRecordDescription" = "Les sources suivantes proviennent d'APT ou d'autres gestionnaires de paquets";
+"RepoAddViewController_ClipBoardTitle" = "Presse-papiers";
+"RepoAddViewController_ClipBoardDescription" = "Nous avons trouvé ces liens dans le presse-papiers";
+"RepoAddViewController_HistoryTitle" = "Historique";
+"RepoAddViewController_HistoryDescription" = "Vous avez précédemment ajouté ces sources. Ces sources seront conservés pendant deux semaines ou jusqu'à ce que vous désactiviez manuellement cette fonction.";
+"RepoAddViewController_InputTitle" = "Entrée manuelle";
+"RepoAddViewController_InputDescription" = "Saisissez manuellement l'url d'une source ici et utilisez le saut de ligne si vous souhaitez ajouter plusieurs adresses";
+
+"NativeDepiction_ErrorCanNotOpenURLPrefix" = "Impossible de contacter le serveur distant\n";
+
+"SplitView_Feature" = "Features"; /* A traduire */
+"SplitView_MyRepo" = "Sources";
+
+"Installed_SortByDateAccending" = "Du plus vieux au plus récent";
+"Installed_SortByDateDesending" = "Du plus récent au plus vieux";
+"Installed_SortByNameDesending" = "De Zz à Aa";
+"Installed_SortByNameAccending" = "De Aa à Zz";
+
+"BuiltInDepiction_Preview" = "Aperçu";
+"BuiltInDepiction_Description" = "Description";
+"BuiltInDepiction_whatsNew" = "Quoi de neuf";
+"BuiltInDepiction_Converted" = "Le contenu de cette page est extrait des informations intégrées au paquet";
+"BuiltInDepiction_metaTitle" = "Métadonnées";
+
+/* 
+
+
+	A traduire 
+
+
+*/
+
+"PackageButtonStart" = "Option";
+"PackageButtonContinue" = "Continue";
+"UPDATE" = "UPDATE";
+"MODIFY" = "MODIFY";
+"GET" = "GET";
+"Unavailable"  = "Unavailable";
+"PackageDepictionError" = "Package description is not available";
+"PackageOperation_AddToInstall" = "Install";
+"PackageOperation_JustDownload" = "Download Only";
+"PackageOperation_SelectVersion" = "Select Version...";
+"PackageOperation_Share" = "Share";
+"PackageOperation_Advanced" = "Advanced...";
+"PackageOperation_FromThisDeveloper" = "From Developer";
+"PackageOperation_MailBugReports" = "Mail Bug Reports";
+"PackageOperation_BlockUpdates" = "Block Updates";
+"PackageOperation_BlockThisPackage" = "Block Package";
+"PackageOperation_BlockThisDeveloper" = "Block Developer";
+"PackageOperation_AddToDelete" = "Delete";
+"PackageOperation_AddToReInstall" = "Reinstall";
+"PackageOperation_AddToUpdate" = "Update";
+"PackageOperation_NotAvailable" = "Broken Metadata";
+"PackageOperation_RemoveFromQueue" = "Remove from queue";
+"PackageOperation_RemoveFromWishList" = "Remove from wishlist";
+"PackageOperation_AddWishList" = "Add to wishlist";
+"PackageOperation_NotAvailableAlertHint" = "No Operation Available";
+"PackageOperation_OperationInvalid" = "Operation Invalid/Not Permitted";
+"PackageOperation_InstantInstall" = "Instant Install";
+"PackageOperation_InstantInstallHint" = "Please be aware that instant install will not check for any package attributes";
+
+"TaskOperationName_RepoUpdate" = "Repo Update ";
+"TaskOperationName_IndexDescription" = "It will take some time to build the index";
+"TaskOperationName_Index" = "Indexing Database";
+"TaskOperationName_PackageInstall" = "+ ";
+"TaskOperationName_PackageInstall_SelectedInstall" = "Selected ";
+"TaskOperationName_PackageInstall_PulledInstall" = "Install as dependency ";
+"TaskOperationName_PackageDelete" = "- ";
+"TaskOperationName_PackageInstall_PulledDelete" = "Removed due to conflict ";
+"TaskOperationName_PackageInstall_SelectedDelete" = "Selected to delete ";
+"TaskOperationName_Download" = "Download ";
+
+"NoTaskAvailable" = "Empty";
+"NoTaskAvailableTint" = "New tasks will be listed here";
+
+"Settings" = "Settings";
+"DeviceInfo" = "Device Info";
+"RandomDeviceInfoEnabledOrUDIDNotAvailable" = "UDID Not Available / Hided";
+"EnableRandomDeviceInfoWarning" = "Random device information is only enabled for free software packages, which may block functions including but not limited to software source account login and paid packages download.";
+"EnableRandomDeviceInfo" = "Enable Random Device Info";
+"SoftwareSources" = "Sources";
+"RepoLoginHint" = "Manage Logins";
+"RepoDownloadLimit" = "Download Queue Limit 1/24";
+"RepoDownloadTimeLimit" = "Download Timeout 6/180s";
+"AllowRepoHistory" = "Enable History";
+"AllowReportRepos" = "Allow Analysis Upload";
+"SoftwareBehaves" = "App Behavior";
+"SoftwareAutoUpdateWhenLaunch" = "Auto Queue Updates When Possible";
+"UpdateNotification" = "Update Notifications";
+"AllowReportSoftwares" = "Allow Analysis Upload";
+"DownloadWaitMinMax" = "The download timeout value should be set between 6 seconds and 180 seconds";
+"DownloadQueueNumberMinMax" = "The download queue value should be set between 1 seconds and 24";
+"DeleteRepoHistory" = "This will delete history";
+"AppLanguage" = "Language";
+"RestartAppHint" = "This operation requires a restart of the application";
+"ReloadSpringBoard" = "Respring";
+"RebootUserSpace" = "Reboot User Space";
+"RebuildUIcache" = "Reload Icon Cache";
+"RepoRefreshTimeGap" = "Auto Refresh Time Gap";
+"RepoRefreshTimeGapMinMax" = "Smart refresh requires a time interval between 0.5 and 240 hours";
+"EnterSafeMode" = "Enter Safe Mode";
+"OpenDownload" = "Open Downloads Folder";
+"FilzaRequiredAlert" = "Filza is not installed";
+"DeleteAllDownload" = "Clean Downloads Folder";
+"UnknownSize" = "Unknown Size";
+"DownloadSizeCalculateTimeout" = "Calculation Failed";
+"WebOpenSourceCode" = "Get Source Code";
+"PhotoLibraryUnavailableHint" = "Photo library is inaccessible, please check your privacy settings";
+"SetAvatar" = "Pick Avatar";
+"RemoveAvatar" = "Remove Avatar";
+"Accounts" = "Accounts";
+"ShowAPTReportSection" = "Enable APT Report";
+
+"PackageDiagnosis" = "Diagnosis";
+"PackageDiagnosis_ConditionGroup" = "Requirements";
+"PackageDiagnosis_Help" = "Get Help";
+"PackageDiagnosis_WelcomeLeft" = "The operation requirements for software package";
+"PackageDiagnosis_WelcomeRight" = "are not met, please refer to the following conditions and fix them manually.";
+"PackageDiagnosis_DependsHint" = "This group specifies additional installation targets, but all of them cannot be met.";
+"PackageDiagnosis_ConflictHint" = "The group identified conflict objects and the objects exist.";
+"PackageDiagnosis_ExtraInstall" = "Extra Install";
+"PackageDiagnosis_ExtraDelete" = "Extra Delete";
+"PackageDiagnosis_ExtraInstallHint" = "This group specifies additional installation targets and has been found in the database.";
+"PackageDiagnosis_ExtraDeleteHint" = "This group specifies conflict objects, but the target can be resolved by uninstalling.";
+"PackageDiagnosis_PackageRequired" = "Required By";
+"PackageDiagnosis_PackageRequiredHint" = "To resolve the conflict, please uninstall this package or add it to the uninstall queue";
+"PackageDiagnosis_PackageRequiredTryFix" = "Possible Solution: Delete All";
+"PackageDiagnosis_PackageRequiredTryFixHint" = "Adding all packages above to the delete queue may solve the problem";
+"PackageDiagnosis_PackageRequiredTryFixFailedHint" = "The package has too complicated dependencies, please consider manually clicking on the error condition and selecting delete to view these relationships.";
+"PackageDiagnosis_GoToIssue" = "Go to the error feedback page";
+"PackageDiagnosis_NoDownloadURLAvailable" = "Could not find download URL, please consider refreshing the software source or contacting the software administrator";
+
+"InstallAgent_SubmitTitle" = "Submit Queue";
+"InstallAgent_SubmitTitleHint" = "Now, you still have the last chance to check. Please check all the contents carefully.\n\n->Is there an obvious error in the installation and removal queues?\n->Is there a queue with the submission? Matching phenomenon?\n\nIn addition, you can also click the print APT test below to check the legality of the queue. Please note that submitting the wrong queue will damage your system. If you are not sure whether the queue is safe, please Consider clicking the generate report below and going to local social media for help.";
+"InstallAgent_APTReportTitle" = "APT Report";
+"InstallAgent_APTReportTitleHint" = "Click the Generate button below to generate the report. This will take some time.";
+"InstallAgent_APTGenerateReport" = "Create Report";
+"InstallAgent_Locked" = "The operation is locked, please try again later";
+"InstallAgent_UnknownError" = "Unknown Error";
+"InstallAgent_UnableAquireDownloadFile" = "Unable to obtain download file";
+"InstallAgent_APTGeneratingReport" = "Creating Report";
+"InstallAgent_APTGeneratedReportContainWarningOrError" = "Report appears to contain warnings or errors, please check carefully";
+"InstallAgent_NoTaskAvailable" = "No task in queue";
+"InstallAgent_DownloadNotFinished" = "The download is not yet complete, please try again later. If the error persists and you cannot see the download queue, tLocalizablehere may be a problem with the package download address. Please try to refresh the software source or clear the download cache in the settings.";
+
+"InstallAgent_UpdateNotice" = "We are about to upgrade. The app will exit during the progress and will reopen when finished. Please wait and do not reopen manually.";
+"InstallAgent_InTasksNotice" = "Another operation in progress, please try again later.";
+
+"Account" = "Account";
+"Option" = "Option";
+"RepoLoginTitle" = "Software Source Login";
+"RepoSignInBlockedHint" = "Failed to obtain real device identity, sign in blocked";
+"SignOut" = "Sign Out";
+"ListPurchased" = "Purchased";
+"LoginFailedLeadingHint" = "Login Failed: ";
+"LoginFailedTrailingHint" = "Unexpected Error Occurred";
+"NoPurchased" = "No Item";
+"NoRepoSupportsPayment" = "No supported repo";
+"Payment_GetHelp" = "Open Issue Report Page";
+"PackageOperation_PaymentInvalid" = "Vender information was broken, no operation available.";
+"PackageOperation_RequiredLogin" = "Sign in required for this operation";
+"PackageOperation_PurchaseHint" = "Process to purchase?";
+"PackageOperation_PaymentSuccess" = "Purchase complete";
+"RandomDeviceInfoMustBeTurnOff" = "Random device info has been enabled, to process you must turn it off";
