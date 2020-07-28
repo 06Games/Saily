@@ -125,8 +125,8 @@
 
 "Installed_SortByDateAccending" = "Du plus vieux au plus récent";
 "Installed_SortByDateDesending" = "Du plus récent au plus vieux";
-"Installed_SortByNameDesending" = "De Zz à Aa";
-"Installed_SortByNameAccending" = "De Aa à Zz";
+"Installed_SortByNameDesending" = "Par ordre alphabetique décroissant";
+"Installed_SortByNameAccending" = "Par ordre alphabetique croissant";
 
 "BuiltInDepiction_Preview" = "Aperçu";
 "BuiltInDepiction_Description" = "Description";
